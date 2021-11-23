@@ -1,0 +1,31 @@
+[
+    {
+        "fechaInicio": "Mar 2016",
+        "fechaFin": "Current",
+        "completado": false,
+        "titulo": "Software Engineer",
+        "instituto": {
+            "nombre": "Catholic University of Uruguay 🇺🇾",
+            "web": "http://ucu.edu.uy",
+            "certificado": ""
+        },
+        "descripcion": [
+          "I received the mid-degree (Systems' Analyst) on mid 2021 🙌",
+          "Aiming to get the Bachelor's degree in end 2022 🎓"
+        ]
+    },
+    {
+        "fechaInicio": "Jul 2020",
+        "fechaFin": "Aug 2020",
+        "completado": true,
+        "titulo": "Kotlin for Java Developers",
+        "instituto": {
+            "nombre": "JetBrains | Coursera",
+            "web": "https://www.jetbrains.com",
+            "certificado": "https://www.coursera.org/account/accomplishments/certificate/PZYEB92QZGLX"
+        },
+        "descripcion": [
+          "All tests approved. ✨ With certification ✨"
+        ]
+    }
+  ]

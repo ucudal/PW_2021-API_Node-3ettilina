@@ -1,0 +1,44 @@
+{ "experiencia-laboral": [
+    {
+      "fechaInicio": "Aug 2020",
+      "fechaFin": "Current",
+      "actual": true,
+      "puesto": "Ssr Android Developer",
+      "empresa": {
+          "nombre": "December Labs",
+          "web": "http://www.decemberlabs.com"
+      },
+      "descripcion": [
+        "Main Kotlin Android developer, working for a US-based client.", 
+        "I'm responsible for leveraging the application, adding new functionalities, unit testing them, and enhancing the UX. While doing that, code refactor, architectural and design patterns standardization are the things we care about."
+        ]
+    },
+    {
+      "fechaInicio": "Apr 2020",
+      "fechaFin": "Jun 2020",
+      "actual": false,
+      "puesto": "Project Lead (Mobile)",
+      "empresa": {
+          "nombre": "TATA Consultancy Services",
+          "web": "http://www.tcs.com"
+      },
+      "descripcion": [
+        "Starting on April 2020 I took the Project Lead position on my team."
+      ]
+    },
+    {
+      "fechaInicio": "Mar 2019",
+      "fechaFin": "Jun 2020",
+      "actual": false,
+      "puesto": "Android Developer",
+      "empresa": {
+          "nombre": "TATA Consultancy Services",
+          "web": "http://www.tcs.com"
+      },
+      "descripcion": [
+        "Being Android development my main job, I spent time experiencing different fields and evolve to get higher responsibilities.",
+        "Worked on **maintaining and enhancing with new functionalities and Android features** one of the top 50th global mobile apps for the Health Care field at Humana Inc."
+      ]
+    }
+  ]
+}
