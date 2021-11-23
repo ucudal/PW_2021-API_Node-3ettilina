@@ -1,0 +1,25 @@
+{
+  "expertise": {
+    "title": "🗝 KEY EXPERTISE",
+    "list": [
+      "Build Android applications using Kotlin 📲",
+      "Focus on UX and programming best practices to be able to provide high value with my work ✨",
+      "Excellent communication either in English or Spanish and both spoken and written 💬",
+      "Love to be in direct contact with the client to better understand their bussiness perspective 👓",
+      "Enjoy working with teams, share knowledte, give a hand and collaborate 🤜🤛"
+    ]
+  },
+  "main": {
+    "title": "💻 MAIN TECHNICAL SKILLS",
+    "list": [
+      "Kotlin",
+      "Java",
+      "Android development",
+      "Flutter development",
+      "Git",
+      "Agile workflow",
+      "Software architecture",
+      "CI/CD"
+    ]
+  }
+}
